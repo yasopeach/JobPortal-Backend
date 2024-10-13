@@ -1,0 +1,16 @@
+# Ignore Visual Studio temporary files, build results, and
+# sensitive user-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files
+.vscode/
+.vs/
+*.vscode
+*.sln.metaproj
+*.sln.metaproj.tmp
+*.dbmdl
+*.pdb
